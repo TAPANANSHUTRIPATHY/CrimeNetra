@@ -6,16 +6,9 @@ Crime Netra is an AI-powered intelligent surveillance system built using Python,
 
 ## 📸 Preview
 
-> Screenshots are referenced from the `images/` folder:
-
-```md
-## 📸 Preview
-
 ![Logo](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/1.png)
 ![UI Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/2.png)
 ![RTSP Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/3.png)
-
-```
 
 ---
 
@@ -46,7 +39,7 @@ CrimeNetra/
 ├── alert.wav                  # Sound played on detection
 ├── logo.png / logo1.png       # Logos for header/footer in GUI
 ├── README.md                  # Project documentation
-└── images/                    # (Create this) Add your screenshots here
+└── images/                    # Screenshots used in README
 ```
 
 ---
@@ -56,7 +49,7 @@ CrimeNetra/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CrimeNetra.git
+git clone https://github.com/TAPANANSHUTRIPATHY/CrimeNetra.git
 cd CrimeNetra
 ```
 
@@ -198,31 +191,9 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ---
 
-## 📁 Image Tips
+## 🔗 Need Help?
 
-Create a folder called `images/` in your project root:
-
-```bash
-mkdir images
-```
-
-Then place your screenshots as:
-
-* `app_ui.png`
-* `harassment_alert.png`
-* `voice_detection.png`
-
-Use this format to display in README:
-
-```md
-![Alt Text](images/app_ui.png)
-```
-
----
-
-## 🔗 Want Help?
-
-Feel free to [open an issue](https://github.com/yourusername/CrimeNetra/issues) or reach out via email.
+Feel free to [open an issue](https://github.com/TAPANANSHUTRIPATHY/CrimeNetra/issues) or reach out via email.
 
 ---
 
