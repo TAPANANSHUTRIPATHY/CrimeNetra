@@ -199,7 +199,7 @@ You will see a GUI interface. From there:
 This project is licensed under the **MIT License**.
 
 > ⚠️ **Unauthorized copying, publishing, or distributing of this code or design is strictly prohibited.**
-> All rights reserved © 2024 Tapananshu Tripathy. Please seek permission for reuse.
+> All rights reserved © 2025 Tapananshu Tripathy. Please seek permission for reuse.
 
 ---
 
