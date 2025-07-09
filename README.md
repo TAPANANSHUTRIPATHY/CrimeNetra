@@ -6,9 +6,9 @@ Crime Netra is an AI-powered intelligent surveillance system built using Python,
 
 ## 📸 Preview
 
-![Logo](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/1.png)
-![UI Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/2.png)
-![RTSP Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/3.png)
+![Logo](images/1.png)
+![UI Preview](images/2.png)
+![RTSP Preview](images/3.png)
 
 ---
 
