@@ -9,9 +9,12 @@ Crime Netra is an AI-powered intelligent surveillance system built using Python,
 > Screenshots are referenced from the `images/` folder:
 
 ```md
-![Logo](CrimeNetra/images/1.png)
-![UI Preview](images/2.png)
-![UI Preview with IP Camera Feed Using RTSP Protocol](images/3.png)
+## 📸 Preview
+
+![Logo](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/1.png)
+![UI Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/2.png)
+![RTSP Preview](https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/CrimeNetra/main/images/3.png)
+
 ```
 
 ---
