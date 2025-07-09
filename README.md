@@ -187,9 +187,10 @@ You will see a GUI interface. From there:
 ## 👤 Author
 
 **Tapananshu Tripathy**
-B.Tech CSE @ KIIT University
-Intern @ National Institute of Technology, Rourkela
-[GitHub](https://github.com/Tapananshu-Tripathy) | [LinkedIn](https://linkedin.com)
+*B.Tech CSE @ KIIT University
+*Intern @ National Institute of Technology, Rourkela
+*[GitHub](https://github.com/TAPANANSHUTRIPATHY)
+*[LinkedIn](https://www.linkedin.com/in/tapananshutripathy/)
 
 ---
 
