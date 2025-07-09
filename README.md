@@ -6,8 +6,16 @@ Crime Netra is an AI-powered intelligent surveillance system built using Python,
 
 ## 📸 Preview
 
+### 🪪 Project Logo
+
 ![Logo](images/1.png)
+
+### 🖥️ Application User Interface
+
 ![UI Preview](images/2.png)
+
+### 🎥 RTSP Live Feed Preview
+
 ![RTSP Preview](images/3.png)
 
 ---
@@ -180,14 +188,17 @@ You will see a GUI interface. From there:
 
 **Tapananshu Tripathy**
 B.Tech CSE @ KIIT University
-Intern @ CipherByte Technologies
+Intern @ National Institute of Technology, Rourkela
 [GitHub](https://github.com/Tapananshu-Tripathy) | [LinkedIn](https://linkedin.com)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and share.
+This project is licensed under the **MIT License**.
+
+> ⚠️ **Unauthorized copying, publishing, or distributing of this code or design is strictly prohibited.**
+> All rights reserved © 2024 Tapananshu Tripathy. Please seek permission for reuse.
 
 ---
 
