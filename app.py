@@ -12,7 +12,6 @@ import winsound  # For playing alert.wav on Windows; for Linux/Mac, different me
 from PIL import Image, ImageTk
 from transformers import pipeline
 from ultralytics import YOLO
-
 from utils.helper import get_tk_image  # Your helper to convert cv2 to Tk image
 
 # Setup
