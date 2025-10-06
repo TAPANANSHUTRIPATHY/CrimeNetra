@@ -1,20 +1,17 @@
-import os
 import math
-import time
+import os
 import threading
-import tempfile
 import tkinter as tk
-from tkinter import ttk, filedialog, messagebox, scrolledtext
 from datetime import datetime
-from PIL import Image, ImageTk
+from tkinter import ttk, filedialog, messagebox
 import cv2
-from ultralytics import YOLO
-import speech_recognition as sr
-from transformers import pipeline
-import nltk
-import re
 import mediapipe as mp
+import nltk
+import speech_recognition as sr
 import winsound  # For playing alert.wav on Windows; for Linux/Mac, different method needed
+from PIL import Image, ImageTk
+from transformers import pipeline
+from ultralytics import YOLO
 
 from utils.helper import get_tk_image  # Your helper to convert cv2 to Tk image
 
@@ -36,6 +33,7 @@ nltk.download('punkt')
 
 class CrimeHarassmentApp:
     def __init__(self, root):
+        self.logo_photo = None
         self.root = root
         self.root.title("Crime Netra - Crime and Harassment Detection System")
         self.root.geometry("1280x880")

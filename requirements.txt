@@ -1,3 +1,7 @@
+mediapipe
+nltk
+speechrecognition
+transformers
 ultralytics
 opencv-python
 Pillow
